@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'VAG Rounded Std';
+    src: url('https://ruzero.netlify.app/webfonts/vagroundedstd-black.woff2') format('woff2');
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: 'VAG Rounded Std';
+    src: url('https://ruzero.netlify.app/webfonts/vagroundedstd-bold.woff2') format('woff2');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'VAG Rounded Std';
+    src: url('https://ruzero.netlify.app/webfonts/vagroundedstd-light.woff2') format('woff2');
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'VAG Rounded Std';
+    src: url('https://ruzero.netlify.app/webfonts/vagroundedstd-thin.woff2') format('woff2');
+    font-weight: 100;
+}
